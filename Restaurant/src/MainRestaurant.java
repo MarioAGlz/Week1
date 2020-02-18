@@ -23,8 +23,8 @@ public class MainRestaurant {
 			System.out.println();
 		}
 		
-		//t2.booked(c3);
-		t3.booked(c2);
+		t2.booked(c3);
+		//t3.booked(c2);
 		t4.booked(c2);
 		
 		t1.isBooked();
